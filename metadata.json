@@ -1,0 +1,6 @@
+{
+  "name": "LLM Council Workspace",
+  "description": "A developer-focused AI companion and notebook with a premium glassmorphic dark theme, featuring session management, real-time Gemini interaction, and clean technical layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
